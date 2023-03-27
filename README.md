@@ -1,2 +1,2 @@
-# oss_space
-## with colab
+# study myself
+### data structure, python
